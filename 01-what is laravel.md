@@ -12,3 +12,6 @@ laravel adalah framework yang dibangun menggunakan bahasa pemograman PHP yang me
  teman aku pernah berkata pemograman itu intinya hanya CRUD (Create Read Update Delete), yang membedakan adalah proses bisnis di dalamnya. saya setuju dengan statement tersebut karena itu memang inti dari sebuah program. Tetapi ada beberapa hal pendukung lainnya yang diperlukan dalam program seperti autentikasi, memori manajemen, code manajemen, security, efisensi program.
  
  Untuk teman-teman semua yang mengikuti seri belajar Laravel di Github saya, saya ucapkan terimakasih banyak dan selamat belajar. pada repository ini kita bakal belajar secara teknikal dan tidak menggunakan penjelasan yang teoritis.
+
+# Next Chapter
+## 2 [Tools yang harus di install](https://github.com/Muhamadzulfikar/laravel-fudamental/blob/main/02-tools%20yang%20harus%20di%20install.md)
