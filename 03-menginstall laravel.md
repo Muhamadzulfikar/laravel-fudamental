@@ -1,7 +1,7 @@
 # menginstall laravel di project kita
 
 ### 1. buatlah sebuah folder baru tempat kita akan menyimpan project laravel
--  membuat folder project laravel di C:\Documents\code\laravel
+-  saya membuat folder project laravel di C:\Documents\code\laravel
 <br>
 
 ### 2. masuk ke dalam folder project yang telah kita buat
