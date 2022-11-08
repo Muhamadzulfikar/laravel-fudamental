@@ -37,4 +37,4 @@
  - perintah berikut otomatis akan membuka visual studio dan membuka folder project kita
 
 # Next Chapter
-![Struktur Folder Laravel](https://github.com/Muhamadzulfikar/laravel-fudamental/blob/main/04-struktur%20folder%20pada%20laravel.md)
+## [Struktur Folder Laravel](https://github.com/Muhamadzulfikar/laravel-fudamental/blob/main/04-struktur%20folder%20pada%20laravel.md)
